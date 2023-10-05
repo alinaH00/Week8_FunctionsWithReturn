@@ -1,0 +1,14 @@
+C:\Users\alina\source\repos\Week8_FunktionWithReturn\Week8_FunktionWithReturn\bin\Debug\net6.0\Week8_FunktionWithReturn.exe
+C:\Users\alina\source\repos\Week8_FunktionWithReturn\Week8_FunktionWithReturn\bin\Debug\net6.0\Week8_FunktionWithReturn.deps.json
+C:\Users\alina\source\repos\Week8_FunktionWithReturn\Week8_FunktionWithReturn\bin\Debug\net6.0\Week8_FunktionWithReturn.runtimeconfig.json
+C:\Users\alina\source\repos\Week8_FunktionWithReturn\Week8_FunktionWithReturn\bin\Debug\net6.0\Week8_FunktionWithReturn.dll
+C:\Users\alina\source\repos\Week8_FunktionWithReturn\Week8_FunktionWithReturn\bin\Debug\net6.0\Week8_FunktionWithReturn.pdb
+C:\Users\alina\source\repos\Week8_FunktionWithReturn\Week8_FunktionWithReturn\obj\Debug\net6.0\Week8_FunktionWithReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alina\source\repos\Week8_FunktionWithReturn\Week8_FunktionWithReturn\obj\Debug\net6.0\Week8_FunktionWithReturn.AssemblyInfoInputs.cache
+C:\Users\alina\source\repos\Week8_FunktionWithReturn\Week8_FunktionWithReturn\obj\Debug\net6.0\Week8_FunktionWithReturn.AssemblyInfo.cs
+C:\Users\alina\source\repos\Week8_FunktionWithReturn\Week8_FunktionWithReturn\obj\Debug\net6.0\Week8_FunktionWithReturn.csproj.CoreCompileInputs.cache
+C:\Users\alina\source\repos\Week8_FunktionWithReturn\Week8_FunktionWithReturn\obj\Debug\net6.0\Week8_FunktionWithReturn.dll
+C:\Users\alina\source\repos\Week8_FunktionWithReturn\Week8_FunktionWithReturn\obj\Debug\net6.0\refint\Week8_FunktionWithReturn.dll
+C:\Users\alina\source\repos\Week8_FunktionWithReturn\Week8_FunktionWithReturn\obj\Debug\net6.0\Week8_FunktionWithReturn.pdb
+C:\Users\alina\source\repos\Week8_FunktionWithReturn\Week8_FunktionWithReturn\obj\Debug\net6.0\Week8_FunktionWithReturn.genruntimeconfig.cache
+C:\Users\alina\source\repos\Week8_FunktionWithReturn\Week8_FunktionWithReturn\obj\Debug\net6.0\ref\Week8_FunktionWithReturn.dll
