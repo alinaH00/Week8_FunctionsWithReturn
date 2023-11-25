@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\alina\\source\\repos\\Week8_FunktionWithReturn\\Week8_FunktionWithReturn\\Week8_FunktionWithReturn.csproj": {}
+    "C:\\Users\\alina\\source\\repos\\Week8_FunktionWithReturn\\Week8_FunktionWithReturn\\Week8_FunktionWithReturn.csproj": {}
   },
   "projects": {
-    "c:\\Users\\alina\\source\\repos\\Week8_FunktionWithReturn\\Week8_FunktionWithReturn\\Week8_FunktionWithReturn.csproj": {
+    "C:\\Users\\alina\\source\\repos\\Week8_FunktionWithReturn\\Week8_FunktionWithReturn\\Week8_FunktionWithReturn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\alina\\source\\repos\\Week8_FunktionWithReturn\\Week8_FunktionWithReturn\\Week8_FunktionWithReturn.csproj",
+        "projectUniqueName": "C:\\Users\\alina\\source\\repos\\Week8_FunktionWithReturn\\Week8_FunktionWithReturn\\Week8_FunktionWithReturn.csproj",
         "projectName": "Week8_FunktionWithReturn",
-        "projectPath": "c:\\Users\\alina\\source\\repos\\Week8_FunktionWithReturn\\Week8_FunktionWithReturn\\Week8_FunktionWithReturn.csproj",
+        "projectPath": "C:\\Users\\alina\\source\\repos\\Week8_FunktionWithReturn\\Week8_FunktionWithReturn\\Week8_FunktionWithReturn.csproj",
         "packagesPath": "C:\\Users\\alina\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\alina\\source\\repos\\Week8_FunktionWithReturn\\Week8_FunktionWithReturn\\obj\\",
+        "outputPath": "C:\\Users\\alina\\source\\repos\\Week8_FunktionWithReturn\\Week8_FunktionWithReturn\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alina\\AppData\\Roaming\\NuGet\\NuGet.Config",
